@@ -1,4 +1,6 @@
 BBQ copy chicken menu
-Spicy sody 
-BBQ 떡볶이
-peperony Sinpizza
+
+1.Spicy sody 
+2.BBQ 떡볶이
+
+peperony Sinpizza -- 삭제
